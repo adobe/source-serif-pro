@@ -4,6 +4,7 @@
 Build script for Variable Fonts
 '''
 
+from fontTools.ttLib import TTFont, newTable
 from pathlib import Path
 import argparse
 import subprocess
@@ -48,6 +49,16 @@ def remove_source_otfs(slope=None):
 
     for otf_to_delete in source_directory.rglob("master_*/*.otf"):
         subprocess.call(['rm', otf_to_delete])
+
+
+def stub_dsig():
+    dsigTable = newTable("DSIG")
+    dsigTable.ulVersion = 1
+    dsigTable.usFlag = 0
+    dsigTable.usNumSigs = 0
+    dsigTable.signatureRecords = []
+
+    return dsigTable
 
 
 def build_vf(args, slope=None):
@@ -132,6 +143,11 @@ def build_vf(args, slope=None):
         stdout=STDOUT,
         stderr=STDERR
     )
+
+    # add and save stub dsig table
+    f = TTFont(output_otf)
+    f['DSIG'] = stub_dsig()
+    f.save(output_otf)
 
     # use DSIG, name, OS/2, MVAR, hhea, post, and STAT tables from OTFs
     tables_from_otf = (
