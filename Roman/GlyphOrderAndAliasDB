@@ -1462,3 +1462,9 @@ uni2006	sixperemspace
 thinspace	thinspace	uni2009,uni202F
 uni200A	hairspace
 uni200B	zerowidthspace
+uni0241	Glottalstoplatin
+uni0242	glottalstoplatin
+uni0294	glottalstop
+uni0295	glottalstopreversed
+uni0296	glottalstopinverted
+uni02C0	glottalstopmod

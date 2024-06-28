@@ -206,6 +206,8 @@
 		<string>G_heup.glif</string>
 		<key>Gje</key>
 		<string>G_je.glif</string>
+		<key>Glottalstoplatin</key>
+		<string>G_lottalstoplatin.glif</string>
 		<key>Gmacron</key>
 		<string>G_macron.glif</string>
 		<key>Gtilde</key>
@@ -1254,6 +1256,16 @@
 		<string>gheup.glif</string>
 		<key>gje</key>
 		<string>gje.glif</string>
+		<key>glottalstop</key>
+		<string>glottalstop.glif</string>
+		<key>glottalstopinverted</key>
+		<string>glottalstopinverted.glif</string>
+		<key>glottalstoplatin</key>
+		<string>glottalstoplatin.glif</string>
+		<key>glottalstopmod</key>
+		<string>glottalstopmod.glif</string>
+		<key>glottalstopreversed</key>
+		<string>glottalstopreversed.glif</string>
 		<key>gmacron</key>
 		<string>gmacron.glif</string>
 		<key>grave</key>

@@ -1099,8 +1099,14 @@
 			<string>thinspace</string>
 			<string>hairspace</string>
 			<string>zerowidthspace</string>
-			<string>f.liga</string>
+			<string>Glottalstoplatin</string>
+			<string>glottalstoplatin</string>
+			<string>glottalstop</string>
+			<string>glottalstopreversed</string>
+			<string>glottalstopinverted</string>
+			<string>glottalstopmod</string>
 			<string>f.ligalong</string>
+			<string>f.liga</string>
 			<string>caron.alt</string>
 			<string>dieresiscmb.tight</string>
 			<string>commabelowcmb.alt</string>
