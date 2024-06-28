@@ -1097,12 +1097,12 @@
 			<string>thinspace</string>
 			<string>hairspace</string>
 			<string>zerowidthspace</string>
-			<string>caron.alt</string>
-			<string>commabelowcmb.alt</string>
 			<string>f.liga</string>
 			<string>f.ligalong</string>
-			<string>tonos.cap</string>
+			<string>caron.alt</string>
 			<string>dieresiscmb.tight</string>
+			<string>commabelowcmb.alt</string>
+			<string>tonos.cap</string>
 			<string>turkicdsccmb</string>
 		</array>
 		<key>public.postscriptNames</key>
@@ -2036,5 +2036,15 @@
 			<key>zhedescender</key>
 			<string>uni0497</string>
 		</dict>
+		<key>public.skipExportGlyphs</key>
+		<array>
+			<string>f.liga</string>
+			<string>f.ligalong</string>
+			<string>caron.alt</string>
+			<string>dieresiscmb.tight</string>
+			<string>commabelowcmb.alt</string>
+			<string>tonos.cap</string>
+			<string>turkicdsccmb</string>
+		</array>
 	</dict>
 </plist>
