@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessjstroke" format="2">
+	<unicode hex="025F"/>
+	<advance width="277"/>
+	<outline>
+		<contour>
+			<point x="15" y="211" type="line"/>
+			<point x="282" y="211" type="line"/>
+			<point x="282" y="257" type="line"/>
+			<point x="15" y="257" type="line"/>
+		</contour>
+		<component base="dotlessj"/>
+	</outline>
+</glyph>

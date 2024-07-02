@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="clicklateral" format="2">
+	<unicode hex="01C1"/>
+	<advance width="291"/>
+	<outline>
+		<contour>
+			<point x="57" y="0" type="line"/>
+			<point x="116" y="0" type="line"/>
+			<point x="116" y="750" type="line"/>
+			<point x="57" y="750" type="line"/>
+		</contour>
+		<contour>
+			<point x="175" y="0" type="line"/>
+			<point x="234" y="0" type="line"/>
+			<point x="234" y="750" type="line"/>
+			<point x="175" y="750" type="line"/>
+		</contour>
+	</outline>
+</glyph>

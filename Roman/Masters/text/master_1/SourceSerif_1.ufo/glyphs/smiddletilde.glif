@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="smiddletilde" format="2">
+	<unicode hex="1D74"/>
+	<advance width="434"/>
+	<outline>
+		<contour>
+			<point x="226" y="243" type="line"/>
+			<point x="256" y="225"/>
+			<point x="271" y="212"/>
+			<point x="313" y="212" type="curve" smooth="yes"/>
+			<point x="369" y="212"/>
+			<point x="396" y="258"/>
+			<point x="408" y="327" type="curve"/>
+			<point x="381" y="336" type="line"/>
+			<point x="367" y="282"/>
+			<point x="351" y="264"/>
+			<point x="309" y="264" type="curve" smooth="yes"/>
+			<point x="283" y="264"/>
+			<point x="255" y="277"/>
+			<point x="229" y="287" type="curve"/>
+		</contour>
+		<contour>
+			<point x="206" y="242" type="line"/>
+			<point x="176" y="260"/>
+			<point x="161" y="273"/>
+			<point x="119" y="273" type="curve" smooth="yes"/>
+			<point x="63" y="273"/>
+			<point x="36" y="227"/>
+			<point x="24" y="158" type="curve"/>
+			<point x="51" y="149" type="line"/>
+			<point x="65" y="203"/>
+			<point x="81" y="221"/>
+			<point x="123" y="221" type="curve" smooth="yes"/>
+			<point x="149" y="221"/>
+			<point x="177" y="208"/>
+			<point x="203" y="198" type="curve"/>
+		</contour>
+		<component base="s"/>
+	</outline>
+</glyph>
