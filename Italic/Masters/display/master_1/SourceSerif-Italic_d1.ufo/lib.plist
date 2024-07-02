@@ -1099,14 +1099,63 @@
 			<string>thinspace</string>
 			<string>hairspace</string>
 			<string>zerowidthspace</string>
+			<string>lbar</string>
+			<string>lambdastroke</string>
+			<string>clickdental</string>
+			<string>clicklateral</string>
+			<string>clickalveolar</string>
+			<string>clickretroflex</string>
+			<string>lj</string>
+			<string>jcaron</string>
+			<string>adot</string>
 			<string>Glottalstoplatin</string>
 			<string>glottalstoplatin</string>
+			<string>bhook</string>
+			<string>oopen</string>
+			<string>dtail</string>
+			<string>eopen</string>
+			<string>dotlessjstroke</string>
+			<string>gammalatin</string>
+			<string>istroke</string>
+			<string>iotalatin</string>
+			<string>Ismall</string>
+			<string>lmiddletilde</string>
+			<string>mturned</string>
+			<string>mhook</string>
+			<string>nhookleft</string>
+			<string>nretroflex</string>
+			<string>philatin</string>
+			<string>rtail</string>
+			<string>Rsmall</string>
+			<string>esh</string>
+			<string>tturned</string>
+			<string>ezh</string>
 			<string>glottalstop</string>
 			<string>glottalstopreversed</string>
 			<string>glottalstopinverted</string>
+			<string>cstretched</string>
+			<string>clickbilabial</string>
+			<string>kturned</string>
+			<string>primemod</string>
+			<string>commareversedmod</string>
 			<string>glottalstopmod</string>
-			<string>f.ligalong</string>
+			<string>colontriangularmod</string>
+			<string>apostrophedblmod</string>
+			<string>dmiddletilde</string>
+			<string>smiddletilde</string>
+			<string>tmiddletilde</string>
+			<string>zmiddletilde</string>
+			<string>mdotaccent</string>
+			<string>hlinebelow</string>
+			<string>epsilonlenis</string>
+			<string>etaiotasub</string>
+			<string>zerowidthnonjoiner</string>
+			<string>zerowidthjoiner</string>
+			<string>bardbl</string>
+			<string>hyphenationpoint</string>
+			<string>verticalfourdots</string>
 			<string>f.liga</string>
+			<string>f.ligalong</string>
 			<string>caron.alt</string>
 			<string>dieresiscmb.tight</string>
 			<string>commabelowcmb.alt</string>
