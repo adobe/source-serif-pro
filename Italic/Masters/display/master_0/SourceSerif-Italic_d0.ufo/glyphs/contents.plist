@@ -924,6 +924,8 @@
 		<string>copyleft.glif</string>
 		<key>copyright</key>
 		<string>copyright.glif</string>
+		<key>cstretched</key>
+		<string>cstretched.glif</string>
 		<key>currency</key>
 		<string>currency.glif</string>
 		<key>d</key>

@@ -1620,6 +1620,8 @@
 		<string>copyright.glif</string>
 		<key>crossmark</key>
 		<string>crossmark.glif</string>
+		<key>cstretched</key>
+		<string>cstretched.glif</string>
 		<key>currency</key>
 		<string>currency.glif</string>
 		<key>d</key>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cstretched" format="2">
+	<unicode hex="0297"/>
+	<advance width="539"/>
+	<outline>
+		<contour>
+			<point x="202" y="-232" type="curve" smooth="yes"/>
+			<point x="342" y="-232"/>
+			<point x="426" y="-132"/>
+			<point x="466" y="-64" type="curve"/>
+			<point x="406" y="-20" type="line"/>
+			<point x="362" y="-76"/>
+			<point x="326" y="-108"/>
+			<point x="274" y="-108" type="curve" smooth="yes"/>
+			<point x="230" y="-108"/>
+			<point x="201" y="-83"/>
+			<point x="201" y="23" type="curve" smooth="yes"/>
+			<point x="201" y="265"/>
+			<point x="271" y="434"/>
+			<point x="320" y="480" type="curve"/>
+			<point x="368" y="480" type="line"/>
+			<point x="368" y="490" type="line"/>
+			<point x="336" y="490" type="line"/>
+			<point x="362" y="434" type="line" smooth="yes"/>
+			<point x="392" y="370"/>
+			<point x="417" y="353"/>
+			<point x="454" y="353" type="curve" smooth="yes"/>
+			<point x="506" y="353"/>
+			<point x="523" y="392"/>
+			<point x="527" y="433" type="curve"/>
+			<point x="504" y="495"/>
+			<point x="440" y="532"/>
+			<point x="361" y="532" type="curve" smooth="yes"/>
+			<point x="146" y="532"/>
+			<point x="13" y="312"/>
+			<point x="13" y="-5" type="curve" smooth="yes"/>
+			<point x="13" y="-152"/>
+			<point x="86" y="-232"/>
+		</contour>
+	</outline>
+	<guideline x="-9.6675853776" y="0" angle="78" identifier="KD3mhjE38U"/>
+</glyph>
