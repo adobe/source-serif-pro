@@ -280,6 +280,8 @@
 		<string>I_short.glif</string>
 		<key>Ishort.bgr</key>
 		<string>I_short.bgr.glif</string>
+		<key>Ismall</key>
+		<string>I_small.glif</string>
 		<key>Itilde</key>
 		<string>I_tilde.glif</string>
 		<key>Iukran</key>
@@ -452,6 +454,8 @@
 		<string>R_ho.glif</string>
 		<key>Rlinebelow</key>
 		<string>R_linebelow.glif</string>
+		<key>Rsmall</key>
+		<string>R_small.glif</string>
 		<key>S</key>
 		<string>S_.glif</string>
 		<key>Sacute</key>
