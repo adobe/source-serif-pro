@@ -564,6 +564,8 @@
 		<string>I_short.sc.glif</string>
 		<key>Ishort.scbgr</key>
 		<string>I_short.scbgr.glif</string>
+		<key>Ismall</key>
+		<string>I_small.glif</string>
 		<key>Itilde</key>
 		<string>I_tilde.glif</string>
 		<key>Itilde.sc</key>
@@ -922,6 +924,8 @@
 		<string>R_linebelow.glif</string>
 		<key>Rlinebelow.sc</key>
 		<string>R_linebelow.sc.glif</string>
+		<key>Rsmall</key>
+		<string>R_small.glif</string>
 		<key>S</key>
 		<string>S_.glif</string>
 		<key>S.sc</key>
