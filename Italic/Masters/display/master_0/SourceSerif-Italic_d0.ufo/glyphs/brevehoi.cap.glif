@@ -35,4 +35,10 @@
 		</contour>
 	</outline>
 	<anchor name="_aboveUC" x="97" y="696"/>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,1,0.8,0.2</string>
+		</dict>
+	</lib>
 </glyph>

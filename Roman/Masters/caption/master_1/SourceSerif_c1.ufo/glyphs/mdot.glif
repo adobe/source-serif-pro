@@ -6,4 +6,10 @@
 		<component base="m"/>
 		<component base="dotaccentcmb" xOffset="512"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,1,0.8,0.2</string>
+		</dict>
+	</lib>
 </glyph>
