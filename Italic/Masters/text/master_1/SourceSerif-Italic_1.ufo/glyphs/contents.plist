@@ -686,6 +686,8 @@
 		<string>acyr.glif</string>
 		<key>adieresis</key>
 		<string>adieresis.glif</string>
+		<key>adot</key>
+		<string>adot.glif</string>
 		<key>adotbelow</key>
 		<string>adotbelow.glif</string>
 		<key>ae</key>
@@ -1322,6 +1324,8 @@
 		<string>hcircumflex.glif</string>
 		<key>hdotbelow</key>
 		<string>hdotbelow.glif</string>
+		<key>hlinebelow</key>
+		<string>hlinebelow.glif</string>
 		<key>hoicmb</key>
 		<string>hoicmb.glif</string>
 		<key>hoicmb.cap</key>
@@ -1412,6 +1416,8 @@
 		<string>j.glif</string>
 		<key>j.sups</key>
 		<string>j.sups.glif</string>
+		<key>jcaron</key>
+		<string>jcaron.glif</string>
 		<key>jcircumflex</key>
 		<string>jcircumflex.glif</string>
 		<key>je</key>
@@ -1440,6 +1446,8 @@
 		<string>kje.glif</string>
 		<key>koppa</key>
 		<string>koppa.glif</string>
+		<key>kturned</key>
+		<string>kturned.glif</string>
 		<key>l</key>
 		<string>l.glif</string>
 		<key>l.sups</key>
@@ -1468,6 +1476,8 @@
 		<string>liraturkish.glif</string>
 		<key>litre</key>
 		<string>litre.glif</string>
+		<key>lj</key>
+		<string>lj.glif</string>
 		<key>lje</key>
 		<string>lje.glif</string>
 		<key>llinebelow</key>
@@ -1498,10 +1508,14 @@
 		<string>macronmod.glif</string>
 		<key>macute</key>
 		<string>macute.glif</string>
+		<key>mdot</key>
+		<string>mdot.glif</string>
 		<key>mdotbelow</key>
 		<string>mdotbelow.glif</string>
 		<key>minus</key>
 		<string>minus.glif</string>
+		<key>mturned</key>
+		<string>mturned.glif</string>
 		<key>mu</key>
 		<string>mu.glif</string>
 		<key>multiply</key>
@@ -1652,6 +1666,8 @@
 		<string>onequarter.glif</string>
 		<key>onethird</key>
 		<string>onethird.glif</string>
+		<key>oopen</key>
+		<string>oopen.glif</string>
 		<key>ordfeminine</key>
 		<string>ordfeminine.glif</string>
 		<key>ordmasculine</key>
@@ -1992,6 +2008,8 @@
 		<string>tse.glif</string>
 		<key>tshe</key>
 		<string>tshe.glif</string>
+		<key>tturned</key>
+		<string>tturned.glif</string>
 		<key>tugrik</key>
 		<string>tugrik.glif</string>
 		<key>turkicdsccmb</key>
@@ -2202,6 +2220,10 @@
 		<string>zero.sups.glif</string>
 		<key>zero.tosf</key>
 		<string>zero.tosf.glif</string>
+		<key>zerowidthjoiner</key>
+		<string>zerowidthjoiner.glif</string>
+		<key>zerowidthnonjoiner</key>
+		<string>zerowidthnonjoiner.glif</string>
 		<key>zerowidthspace</key>
 		<string>zerowidthspace.glif</string>
 		<key>zeta</key>
