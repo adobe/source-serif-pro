@@ -1700,6 +1700,8 @@
 		<string>dotlessi.glif</string>
 		<key>dotlessj</key>
 		<string>dotlessj.glif</string>
+		<key>dotlessjstroke</key>
+		<string>dotlessjstroke.glif</string>
 		<key>dze</key>
 		<string>dze.glif</string>
 		<key>dzhe</key>
@@ -2118,6 +2120,8 @@
 		<string>ishort.glif</string>
 		<key>ishort.bgr</key>
 		<string>ishort.bgr.glif</string>
+		<key>istroke</key>
+		<string>istroke.glif</string>
 		<key>itilde</key>
 		<string>itilde.glif</string>
 		<key>iukran</key>
@@ -2168,6 +2172,8 @@
 		<string>lacute.glif</string>
 		<key>lambda</key>
 		<string>lambda.glif</string>
+		<key>lbar</key>
+		<string>lbar.glif</string>
 		<key>lcaron</key>
 		<string>lcaron.glif</string>
 		<key>lcommaaccent</key>

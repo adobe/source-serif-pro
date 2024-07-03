@@ -4,11 +4,17 @@
 	<advance width="298"/>
 	<outline>
 		<contour>
-			<point x="18" y="351" type="line"/>
-			<point x="285" y="351" type="line"/>
-			<point x="285" y="397" type="line"/>
-			<point x="18" y="397" type="line"/>
+			<point x="6" y="342" type="line"/>
+			<point x="293" y="342" type="line"/>
+			<point x="293" y="388" type="line"/>
+			<point x="6" y="388" type="line"/>
 		</contour>
 		<component base="l"/>
 	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0,1,0.4,0.2</string>
+		</dict>
+	</lib>
 </glyph>
