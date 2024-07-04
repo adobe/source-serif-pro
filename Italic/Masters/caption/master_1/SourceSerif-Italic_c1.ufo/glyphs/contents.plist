@@ -1466,6 +1466,8 @@
 		<string>lacute.glif</string>
 		<key>lambda</key>
 		<string>lambda.glif</string>
+		<key>lambdastroke</key>
+		<string>lambdastroke.glif</string>
 		<key>lbar</key>
 		<string>lbar.glif</string>
 		<key>lcaron</key>
