@@ -768,6 +768,7 @@
 			<string>dotaccent</string>
 			<string>cedilla</string>
 			<string>ogonek</string>
+			<string>circledotted</string>
 			<string>gravecmb</string>
 			<string>gravecmb.cap</string>
 			<string>acutecmb</string>
@@ -1145,7 +1146,7 @@
 			<string>smiddletilde</string>
 			<string>tmiddletilde</string>
 			<string>zmiddletilde</string>
-			<string>mdotaccent</string>
+			<string>mdot</string>
 			<string>hlinebelow</string>
 			<string>epsilonlenis</string>
 			<string>etaiotasub</string>
@@ -1154,14 +1155,13 @@
 			<string>bardbl</string>
 			<string>hyphenationpoint</string>
 			<string>verticalfourdots</string>
-			<string>f.liga</string>
 			<string>f.ligalong</string>
+			<string>f.liga</string>
 			<string>caron.alt</string>
 			<string>dieresiscmb.tight</string>
 			<string>commabelowcmb.alt</string>
 			<string>tonos.cap</string>
 			<string>turkicdsccmb</string>
-			<string>mdot</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

@@ -779,6 +779,7 @@ hungarumlaut	hungarumlaut
 dotaccent	dotaccent
 cedilla	cedilla
 ogonek	ogonek
+uni25CC	circledotted
 uni0300	gravecmb
 uni0300.cap	gravecmb.cap
 uni0301	acutecmb

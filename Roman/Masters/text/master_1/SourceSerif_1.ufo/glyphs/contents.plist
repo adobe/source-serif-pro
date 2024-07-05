@@ -1562,6 +1562,8 @@
 		<string>chedescender.glif</string>
 		<key>chi</key>
 		<string>chi.glif</string>
+		<key>circledotted</key>
+		<string>circledotted.glif</string>
 		<key>circumflex</key>
 		<string>circumflex.glif</string>
 		<key>circumflexacute</key>

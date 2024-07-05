@@ -760,6 +760,7 @@ hungarumlaut	hungarumlaut
 dotaccent	dotaccent
 cedilla	cedilla
 ogonek	ogonek
+uni25CC	circledotted
 uni0300	gravecmb
 uni0300.cap	gravecmb.cap
 uni0301	acutecmb
@@ -1138,7 +1139,7 @@ uni1D6D	dmiddletilde
 uni1D74	smiddletilde
 uni1D75	tmiddletilde
 uni1D76	zmiddletilde
-uni1E41	mdotaccent
+uni1E41	mdot
 uni1E96	hlinebelow
 uni1F10	epsilonlenis
 uni1FC3	etaiotasub

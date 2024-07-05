@@ -785,6 +785,7 @@
 			<string>dotaccent</string>
 			<string>cedilla</string>
 			<string>ogonek</string>
+			<string>circledotted</string>
 			<string>gravecmb</string>
 			<string>gravecmb.cap</string>
 			<string>acutecmb</string>
